@@ -6,7 +6,7 @@ Este repositorio reúne `📗 conceptos importantes` de programación en PLC. Ca
 
 ---
 
-## 📗 Conceptos importantes de Ladder
+## 📗 Índice de conceptos
 
 ### 00. Enclavamiento de motor (simulacion).
 - 📅 Fecha: Diciembre 2025
