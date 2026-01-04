@@ -1,2 +1,45 @@
-# Conceptos-importantes-de-Ladder
-Repositorio dedicado a apuntes y simulaciones que ilustran buenas prácticas y errores comunes en programación de PLC.
+[⬅️ Volver a "Proyectos con PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
+
+# Recopilacion de proyectos con PLC
+
+Este repositorio reúne `📗 conceptos importantes` de programación en PLC. Cada apunte está documentado y alojado en su propio repositorio individual, ilustran buenas prácticas y simulaciones de errores comunes.
+
+---
+
+## 📗 Conceptos importantes de Ladder
+
+### 00. Enclavamiento de motor (simulacion).
+- 📅 Fecha: Diciembre 2025
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-)
+- 🛠️ Tecnologías: PLC Siemens 1200, software TIA Portal V16, Memorias virtuales.
+- 📄 Descripción: Sistema que permite mantener un motor encedido aunque el boton de inicio deje de presionarse.
+
+### 01. Repetición de señales en PLC (simulación de error)
+- 📅 Fecha: Diciembre 2025
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/tree/main)
+- 🛠️ Tecnologías: PLC Siemens S7-1200, software TIA Portal V16, Memorias virtuales
+- 📄 Descripción: - Simulación que demuestra por qué no se deben repetir bobinas de salida en distintos segmentos. Aunque el primer segmento muestra que `motor3` se enciende, el segundo revela que no recibe energía, evidenciando el error. Este tipo de fallas puede pasar desapercibido y generar mala práctica profesional.
+
+### 02. Uso de funciones SET y RESET en PLC
+
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/tree/main)  
+- 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
+- 📄 Descripción: Este proyecto muestra cómo utilizar las funciones SET y RESET en programación de PLCs para controlar salidas de forma más intuitiva.  
+  A partir del ejercicio anterior sobre repetición de bobinas, se implementa una lógica de enclavamiento usando bobinas de tipo SET y RESET, junto con botones de inicio y parada.  
+  Las capturas documentan el comportamiento del motor en cada etapa de la simulación, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
+
+### 03. ... 
+- 📅 Fecha: ...
+- 🔗 [en construccion](pegar_enlace)
+- 🛠️ Tecnologías: ...
+- 📄 Descripción: ...
+
+---
+
+## Objetivo
+Este repositorio tiene como propósito reunir conceptos fundamentales de programación en PLC con TIA Portal. La meta es ofrecer un espacio que documente ejercicios, simulaciones y buenas prácticas de Ladder, de manera que sirva como referencia de aprendizaje.
+
+---
+
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
