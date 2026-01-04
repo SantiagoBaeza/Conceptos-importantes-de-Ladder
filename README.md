@@ -1,6 +1,6 @@
 [⬅️ Volver a "Proyectos con PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
-# Recopilacion de proyectos con PLC
+# Conceptos importantes de Ladder
 
 Este repositorio reúne `📗 conceptos importantes` de programación en PLC. Cada apunte está documentado y alojado en su propio repositorio individual, ilustran buenas prácticas y simulaciones de errores comunes.
 
