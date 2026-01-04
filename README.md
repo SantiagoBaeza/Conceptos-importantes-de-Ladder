@@ -2,7 +2,7 @@
 
 # Conceptos importantes de Ladder
 
-Este repositorio reúne `📗 conceptos importantes` de programación en PLC. Cada apunte está documentado y alojado en su propio repositorio individual, ilustran buenas prácticas y simulaciones de errores comunes.
+Este repositorio reúne conceptos importantes de programación en PLC. Cada apunte está documentado y alojado en su propio repositorio individual, ilustran buenas prácticas y simulaciones de errores comunes.
 
 ---
 
