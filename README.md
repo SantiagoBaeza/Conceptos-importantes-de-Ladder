@@ -29,7 +29,7 @@ Este repositorio reúne conceptos importantes de programación en PLC. Cada apun
   A partir del ejercicio anterior sobre repetición de bobinas, se implementa una lógica de enclavamiento usando bobinas de tipo SET y RESET, junto con botones de inicio y parada.  
   Las capturas documentan el comportamiento del motor en cada etapa de la simulación, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
 
-### 03. Uso de flancos positivos y negativos en PLC*
+### 03. Uso de flancos positivos y negativos en PLC
 
 - 📅 Fecha: Enero 2026  
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-flancos-positivos-y-negativos-en-PLC/tree/main)  
