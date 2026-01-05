@@ -29,7 +29,16 @@ Este repositorio reúne conceptos importantes de programación en PLC. Cada apun
   A partir del ejercicio anterior sobre repetición de bobinas, se implementa una lógica de enclavamiento usando bobinas de tipo SET y RESET, junto con botones de inicio y parada.  
   Las capturas documentan el comportamiento del motor en cada etapa de la simulación, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
 
-### 03. ... 
+### 03. Uso de flancos positivos y negativos en PLC*
+
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-flancos-en-PLC)  
+- 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
+- 📄 Descripción: Este proyecto muestra cómo utilizar los flancos positivos y negativos en programación de PLCs para detectar eventos puntuales y controlar salidas de forma más precisa.  
+A partir del ejercicio anterior sobre enclavamiento con SET y RESET, se incorpora el uso de flancos para activar motores en el instante exacto en que se presiona un botón, evitando repeticiones en cada ciclo de scan.  
+Las capturas documentan el comportamiento del motor en cada segmento del programa, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
+
+### 04. ... 
 - 📅 Fecha: ...
 - 🔗 [en construccion](pegar_enlace)
 - 🛠️ Tecnologías: ...
