@@ -32,7 +32,7 @@ Este repositorio reúne conceptos importantes de programación en PLC. Cada apun
 ### 03. Uso de flancos positivos y negativos en PLC*
 
 - 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-flancos-en-PLC)  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-flancos-positivos-y-negativos-en-PLC/tree/main)  
 - 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
 - 📄 Descripción: Este proyecto muestra cómo utilizar los flancos positivos y negativos en programación de PLCs para detectar eventos puntuales y controlar salidas de forma más precisa.  
 A partir del ejercicio anterior sobre enclavamiento con SET y RESET, se incorpora el uso de flancos para activar motores en el instante exacto en que se presiona un botón, evitando repeticiones en cada ciclo de scan.  
