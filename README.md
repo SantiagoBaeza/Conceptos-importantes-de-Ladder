@@ -47,7 +47,7 @@ Las capturas documentan el comportamiento del motor en cada segmento del program
 Se aplicaron distintos tipos de temporizadores a motores simulados, configurando un tiempo de preset de 15 segundos en cada caso.  
 Las capturas documentan el comportamiento de cada temporizador y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
 
-05. Uso de contadores en PLC  
+### 05. Uso de contadores en PLC  
 - 📅 Fecha: Enero 2026  
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/tree/main)  
 - 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
