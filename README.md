@@ -38,7 +38,16 @@ Este repositorio reúne conceptos importantes de programación en PLC. Cada apun
 A partir del ejercicio anterior sobre enclavamiento con SET y RESET, se incorpora el uso de flancos para activar motores en el instante exacto en que se presiona un botón, evitando repeticiones en cada ciclo de scan.  
 Las capturas documentan el comportamiento del motor en cada segmento del programa, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
 
-### 04. ... 
+### 04. Uso de temporizadores en PLC
+
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-temporizadores-en-PLC/tree/main)  
+- 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
+- 📄 Descripción: Este proyecto muestra cómo utilizar los temporizadores **TON, TOF, TP y TONR** en programación de PLCs para controlar salidas en función del tiempo.  
+Se aplicaron distintos tipos de temporizadores a motores simulados, configurando un tiempo de preset de 15 segundos en cada caso.  
+Las capturas documentan el comportamiento de cada temporizador y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
+
+### 05. ... 
 - 📅 Fecha: ...
 - 🔗 [en construccion](pegar_enlace)
 - 🛠️ Tecnologías: ...
