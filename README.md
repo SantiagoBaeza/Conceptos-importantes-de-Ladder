@@ -47,7 +47,15 @@ Las capturas documentan el comportamiento del motor en cada segmento del program
 Se aplicaron distintos tipos de temporizadores a motores simulados, configurando un tiempo de preset de 15 segundos en cada caso.  
 Las capturas documentan el comportamiento de cada temporizador y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
 
-### 05. ... 
+05. Uso de contadores en PLC  
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-contadores-en-PLC/tree/main)  
+- 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
+- 📄 Descripción: Este proyecto documenta el uso de los contadores CTU, CTD y CTUD en programación de PLCs.  
+Se aplicaron distintos tipos de contadores a motores simulados, configurando valores de preset (PV) y explorando el comportamiento de cada tipo: ascendente, descendente y bidireccional.  
+Las capturas muestran la lógica de cada esquema y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
+
+### 06. ... 
 - 📅 Fecha: ...
 - 🔗 [en construccion](pegar_enlace)
 - 🛠️ Tecnologías: ...
